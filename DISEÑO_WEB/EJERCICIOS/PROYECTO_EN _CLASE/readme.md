@@ -7,6 +7,16 @@ Caso: Página informativa de la Escuela de Código PILARES
  
  ## FASE 1 TOMA DE REQUERIMIENTOS 
  Hacemos el llenado de los requerimientos en el siguiente documento --> [PLANTILLA](./1.-Reqierimientos.doc)
+ PROYECTO	Página web escuela pilares el ROSARIO
+Características:	* Sitio:dentro del metro EL ROSARIO
+* Formulario que se envía a correo electrónico 
+* Enlace a whatsapp 5555500101
+* La página debe ser UNICAMENTE POR INTERNET CONECTANDO SOLO CON EL PROFESOR RESPECTIVO
+* La preferencia de colores sera AL GUSTO DEL CLIENTE
+Fecha Solicitud:	31/03/2022
+![image](https://user-images.githubusercontent.com/103153624/163279347-0f31e75a-8ca3-4a3a-8835-0d37c2edbe75.png)
+
+
  
 (pueden usar la plantilla para futuros proyectos)
 
